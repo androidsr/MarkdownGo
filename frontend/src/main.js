@@ -1,0 +1,17 @@
+import { createApp } from 'vue'
+
+import '@toast-ui/chart/dist/toastui-chart.css';
+import 'tui-color-picker/dist/tui-color-picker.css';
+import 'prismjs/themes/prism.css';
+
+import '@toast-ui/editor-plugin-code-syntax-highlight/dist/toastui-editor-plugin-code-syntax-highlight.css';
+import '@toast-ui/editor-plugin-color-syntax/dist/toastui-editor-plugin-color-syntax.css';
+import '@toast-ui/editor-plugin-table-merged-cell/dist/toastui-editor-plugin-table-merged-cell.css';
+import '@toast-ui/editor/dist/toastui-editor.css';
+
+import App from './App.vue';
+
+
+const app = createApp(App)
+
+app.mount('#app')
