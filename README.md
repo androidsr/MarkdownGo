@@ -7,6 +7,8 @@
 ## 项目概述
 
 MarkdownGo 是一款基于 Wails + Vue.js 开发的现代化 Markdown 编辑器，支持所见即所得和源码两种编辑模式。该软件结合了丰富的 Markdown 插件生态，提供强大的编辑功能和优雅的用户体验。
+<img width="1481" height="864" alt="image" src="https://github.com/user-attachments/assets/6f8e1f61-fa98-42be-9583-3ed1c851960c" />
+<img width="1490" height="864" alt="image" src="https://github.com/user-attachments/assets/3508c854-188a-4313-841d-63084b1677e5" />
 
 ## ✨ 核心特性
 
@@ -113,17 +115,6 @@ wails build
 ### 插件开发
 如需添加新的编辑器插件，请参考 ToastUI Editor 官方文档，并在 `frontend/src/App.vue` 中配置。
 
-## 📈 功能演示
-
-### 编辑界面
-![编辑器界面](https://github.com/user-attachments/assets/ebd76822-91c4-4a6e-b3c5-3981865d8064)
-
-### 图表功能
-![图表生成](https://github.com/user-attachments/assets/f2f4a31b-a8b8-430d-a418-b4279e46d846)
-
-### 代码高亮
-![代码高亮](https://github.com/user-attachments/assets/3cdc74b7-757e-4256-b1f1-69d219587fd6)
-
 ## 🤝 贡献指南
 
 欢迎提交 Issue 和 Pull Request 来完善这个项目！
@@ -133,6 +124,10 @@ wails build
 - **项目维护者**：sirui
 - **技术支持邮箱**：srandroid@163.com
 - **微信号**：scrqrr
+
+## 💰支持与打赏
+- 🙏** 感谢土豪大哥的打赏 **
+- <img width="500" height="475" alt="image" src="https://github.com/user-attachments/assets/f13e8645-95cd-4e00-98c3-a232c552fbd6" />
 
 ## 📄 许可证
 
